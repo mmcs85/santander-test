@@ -24,7 +24,7 @@ There is alot of possible improvements for the application to be ready for produ
 
 2 - Improve pub-sub pattern with a additional req-resp for faster booting of a subscriber.
 
-3 - Improve some error handeling / recovery
+3 - Improve some error handling / recovery
 
 4 - Implement a service discovery to allow subscriber to know more publishers (using DNS + a database)
 
