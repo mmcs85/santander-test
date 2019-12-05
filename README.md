@@ -19,12 +19,19 @@ The REST API then reads the memoryCache and returns to the client on request.
 ### Possible improvements
 
 There is alot of possible improvements for the application to be ready for production:
+
 1 - Improve reliability by persisting top stories in a file or database
+
 2 - Improve pub-sub pattern with a additional req-resp for faster booting of a subscriber.
+
 3 - Improve some error handeling / recovery
+
 4 - Implement a service discovery to allow subscriber to know more publishers (using DNS + a database)
+
 5 - Create more configurations using appsettings / ENV vars
+
 6 - Create docker images
+
 7 - Integrate monitoring / health services
 
 ### Running
