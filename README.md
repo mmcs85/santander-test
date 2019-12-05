@@ -5,7 +5,7 @@ Implementation of Senior Backend Developer Coding Test.
 Using ASP.NET Core 2.2, implement a RESTful API to retrieve the details of the first 20 "best
 stories" from the Hacker News API.
 
-### assumptions
+### Assumptions
 
 This implementation uses two physical processes, Publisher and API (Subscriber) to represent a logical microservice.
 Both communicate using NetMQ (based on ZeroMQ) to send messages in a publisher / subscribers pattern.
