@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SantanderTest
+/SantanderTest.API/.vs/SantanderTest.API
+/SantanderTest.API/bin/Debug/netcoreapp2.2
+/SantanderTest.API/obj
+/SantanderTest.Publisher/bin/Debug/netcoreapp3.0
+/SantanderTest.Publisher/obj
+/SantanderTest.API/SantanderTest.API.csproj.user
